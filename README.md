@@ -25,9 +25,9 @@ There are two possible ways to submit your project. Your instructor should have 
 
 ### Task 2: Minimum Viable Product
 
-- [ ] For Exercises 1-7 inside `index.js`:
-  - [ ] Implement the function or the class in `index.js`.
-  - [ ] Write the corresponding tests in `index.test.js`.
+- [x] For Exercises 1-7 inside `index.js`:
+  - [x] Implement the function or the class in `index.js`.
+  - [x] Write the corresponding tests in `index.test.js`.
 
 #### Notes
 
